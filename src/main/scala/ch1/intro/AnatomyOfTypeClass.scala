@@ -1,4 +1,4 @@
-package chapter1
+package ch1.intro
 
 object AnatomyOfTypeClass extends App {
 
